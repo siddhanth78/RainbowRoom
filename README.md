@@ -1,2 +1,2 @@
 # RainbowRoom
-#Requires Scratch 2
+Requires Scratch 2
